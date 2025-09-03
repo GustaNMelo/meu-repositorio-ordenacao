@@ -28,15 +28,3 @@ Este repositório contém a implementação de seis atividades sobre vetores e a
    - Dessa forma, consegui um algoritmo que é **mais rápido que insertion e selection sort**, com complexidade média **O(n log n)**, sem precisar comparar todos os elementos entre si.
 
 ---
-
-## Como rodar
-
-Cada exercício está implementado em um arquivo Python separado. Para testar, basta executar o arquivo correspondente, por exemplo:
-
-```bash
-python ordem_crescente.py
-python insere_ordenado.py
-python insertion_sort_recursivo.py
-python selection_sort_recursivo.py
-python selection_sort_decrescente.py
-python divide_ordena.py
